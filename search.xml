@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我是菜狗</title>
+      <link href="/2022/03/26/miscellaneous%20talk/%E6%88%91%E6%98%AF%E8%8F%9C%E7%8B%97/"/>
+      <url>/2022/03/26/miscellaneous%20talk/%E6%88%91%E6%98%AF%E8%8F%9C%E7%8B%97/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我"><a href="#我" class="headerlink" title="我"></a>我</h2><h2 id="是"><a href="#是" class="headerlink" title="是"></a>是</h2><h2 id="菜"><a href="#菜" class="headerlink" title="菜"></a>菜</h2><h2 id="狗"><a href="#狗" class="headerlink" title="狗"></a>狗</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> fish杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图标显示问题大讨论</title>
+      <link href="/2022/03/26/error/%E5%9B%BE%E6%A0%87%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98%E5%A4%A7%E8%AE%A8%E8%AE%BA/"/>
+      <url>/2022/03/26/error/%E5%9B%BE%E6%A0%87%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98%E5%A4%A7%E8%AE%A8%E8%AE%BA/</url>
+      
+        <content type="html"><![CDATA[<h2 id="https-fontawesome-com-图标的网站，记得选老版本的5-15-4"><a href="#https-fontawesome-com-图标的网站，记得选老版本的5-15-4" class="headerlink" title="https://fontawesome.com/ 图标的网站，记得选老版本的5.15.4"></a><a href="https://fontawesome.com/">https://fontawesome.com/</a> 图标的网站，记得选老版本的5.15.4</h2><h2 id="可恶我弄了好久，只能选fab和fas开头的图标，而且那个“-”有三级的还不行，只有两级的能用，要么其他就是显示不出来，乌乌"><a href="#可恶我弄了好久，只能选fab和fas开头的图标，而且那个“-”有三级的还不行，只有两级的能用，要么其他就是显示不出来，乌乌" class="headerlink" title="可恶我弄了好久，只能选fab和fas开头的图标，而且那个“-”有三级的还不行，只有两级的能用，要么其他就是显示不出来，乌乌"></a>可恶我弄了好久，只能选fab和fas开头的图标，而且那个“-”有三级的还不行，只有两级的能用，要么其他就是显示不出来，乌乌</h2><h3 id="能显示的（举个栗子）fab-fa-github"><a href="#能显示的（举个栗子）fab-fa-github" class="headerlink" title="能显示的（举个栗子）fab fa-github"></a>能显示的（举个栗子）fab fa-github</h3><h3 id="不能显示的-fas-fa-tv-retro-far-fa-tv-retro"><a href="#不能显示的-fas-fa-tv-retro-far-fa-tv-retro" class="headerlink" title="不能显示的 fas fa-tv-retro far fa-tv-retro"></a>不能显示的 fas fa-tv-retro far fa-tv-retro</h3><h3 id="是这个主题的问题吗（思索）"><a href="#是这个主题的问题吗（思索）" class="headerlink" title="是这个主题的问题吗（思索）"></a>是这个主题的问题吗（思索）</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 报错问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>helloworld</title>
+      <link href="/2022/03/25/miscellaneous%20talk/helloworld/"/>
+      <url>/2022/03/25/miscellaneous%20talk/helloworld/</url>
+      
+        <content type="html"><![CDATA[<p>This is my first post.<br>This is write by <a href="https://hexo.io/">Hexo</a>!</p><h2 id="Fish的第一个博客"><a href="#Fish的第一个博客" class="headerlink" title="Fish的第一个博客"></a>Fish的第一个博客</h2><h3 id="下面是hexo默认给的操作，留着留着"><a href="#下面是hexo默认给的操作，留着留着" class="headerlink" title="下面是hexo默认给的操作，留着留着"></a>下面是hexo默认给的操作，留着留着</h3><h3 id="创建一个标签页-添加type-“tags”"><a href="#创建一个标签页-添加type-“tags”" class="headerlink" title="创建一个标签页,添加type: “tags”"></a>创建一个标签页,添加type: “tags”</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new page tags</span><br></pre></td></tr></table></figure><h3 id="再创建一个-添加type-categories"><a href="#再创建一个-添加type-categories" class="headerlink" title="再创建一个,添加type: categories"></a>再创建一个,添加type: categories</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new page categories</span><br></pre></td></tr></table></figure><h3 id="创建一个友链-添加type-link"><a href="#创建一个友链-添加type-link" class="headerlink" title="创建一个友链,添加type: link"></a>创建一个友链,添加type: link</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new page <span class="built_in">link</span></span><br></pre></td></tr></table></figure><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><h3 id="创建一个子页面"><a href="#创建一个子页面" class="headerlink" title="创建一个子页面"></a>创建一个子页面</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo n page xxxxx</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> fish杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
